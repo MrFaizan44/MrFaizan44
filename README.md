@@ -1,6 +1,6 @@
-# Hey 👋 I'm Faizan Malik
+# I'm Faizan Malik
 
-## 💻 Software Engineering Student | ☁️ Cloud & DevOps Enthusiast | 🚀 Aspiring Full Stack Developer
+### 💻 Software Engineering Student | ☁️ Cloud & DevOps Enthusiast | 🚀 Aspiring Full Stack Developer
 
 ---
 
@@ -11,7 +11,6 @@ I enjoy **building projects, experimenting with new technologies**, and learning
 
 * 🎓 Software Engineering Student
 * 📈 Focused on continuous improvement
-* 🔹 Recently created frontend designs in Figma
 
 ---
 
@@ -25,37 +24,37 @@ I enjoy **building projects, experimenting with new technologies**, and learning
 
 ## ☁️ Cloud & DevOps Focus
 
-## 🐧 Operating Systems
+### 🐧 Operating Systems
 
 * Linux (Ubuntu, Red Hat)
 * Shell Scripting
 
-## ☁️ Cloud Platforms
+### ☁️ Cloud Platforms
 
 * Microsoft Azure (Learning)
 * Virtual Machines (VMs)
 * Virtual Networks (VNet / VPC)
 * Cloud Storage & Networking
 
-## ⚙️ DevOps & CI/CD
+### ⚙️ DevOps & CI/CD
 
 * CI/CD Pipelines
 * Git & GitHub
 * Automation & Deployment
 
-## 🐳 Containers & Orchestration
+### 🐳 Containers & Orchestration
 
 * Docker (Learning)
 * Kubernetes (Basics)
 * Clusters & Container Scaling
 
-## 🌐 Networking & Infrastructure
+### 🌐 Networking & Infrastructure
 
 * Virtual Private Cloud (VPC)
 * Load Balancers
 * DNS, IP Addressing, Ports
 
-## 🏗️ Architecture
+### 🏗️ Architecture
 
 * Infrastructure as Code (Learning)
 * System Design Basics
@@ -65,7 +64,7 @@ I enjoy **building projects, experimenting with new technologies**, and learning
 
 ## 🧰 Tech Toolbox
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 * C++ (Good understanding)
 * Java (Learning)
@@ -75,22 +74,22 @@ I enjoy **building projects, experimenting with new technologies**, and learning
 * Swift (Basics)
 * TypeScript / TSX (Basics)
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 * HTML
 * CSS
 * Full Stack Developer (Beginner Level)
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 * Flutter (Basics)
 
-## 🎨 Design & UI/UX
+### 🎨 Design & UI/UX
 
-* Figma
+* Figma 
 * Basic UI/UX Principles
 
-## ⚙️ Tools & Technologies
+### ⚙️ Tools & Technologies
 
 * Git & GitHub
 * Linux (Ubuntu - Basics)
@@ -99,22 +98,16 @@ I enjoy **building projects, experimenting with new technologies**, and learning
 
 ---
 
-## 📈 Learning Journey
-
-Start → Practice → Make Mistakes → Learn → Try Again 🔁
-
----
-
 ## 📬 Contact Me
 
-📧 malixfaizan445@gmail.com)
-🔗 (www.linkedin.com/in/faizan-malik-969407221/)
+📧 malixfaizan445@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/faizan-malik-969407221/)
 ---
 
 ## ⚡ Fun Fact
 
 I enjoy learning new technologies and exploring real-world projects.
 
-
+---
 
 ⭐️ *Thanks for visiting my profile! Let’s build something amazing together.*
